@@ -7,13 +7,3 @@
 #include <thread>
 
 #include "vendors/Singleton.h"
-
-typedef struct {
-	LPVOID lpVirtualAddress;
-	DWORD dwSizeOfRawData;
-} SECTIONINFO, * PSECTIONINFO;
-
-typedef struct {
-	DWORD64 dwRealHash;
-	SECTIONINFO SectionInfo;
-} HASHSET, * PHASHSET;
