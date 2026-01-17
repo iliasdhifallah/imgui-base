@@ -50,7 +50,7 @@
     <ClInclude Include="pch.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
-    <ClInclude Include="src\Cheat\Settings.h">
+    <ClInclude Include="src\Utils\Settings.h">
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
     <ClInclude Include="vendors\Singleton.h">

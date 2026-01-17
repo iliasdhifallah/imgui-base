@@ -192,7 +192,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
-    <ClInclude Include="src\Cheat\Settings.h" />
+    <ClInclude Include="src\Utils\Settings.h" />
     <ClInclude Include="src\Interface\UserInterface.h" />
     <ClInclude Include="vendors\imgui\fonts.hpp" />
     <ClInclude Include="vendors\imgui\imconfig.h" />

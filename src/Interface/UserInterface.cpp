@@ -1,7 +1,7 @@
 #include "../../pch.h"
 #include "UserInterface.h"
 
-#include "../Cheat/Settings.h"
+#include "../Utils/Settings.h"
 
 #include "../../vendors/imgui/imgui.h"
 #include "../../vendors/imgui/imgui_custom.hpp"

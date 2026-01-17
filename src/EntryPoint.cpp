@@ -1,6 +1,6 @@
 #include "../pch.h"
 
-#include "Cheat/Settings.h"
+#include "Utils/Settings.h"
 #include "Interface/UserInterface.h"
 
 int main()
